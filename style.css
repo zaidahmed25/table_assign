@@ -1,0 +1,87 @@
+h1{
+    background-color: rgb(136, 55, 55);
+    height: 80px;
+    font-size: 70px;
+ }
+ .greenl{
+      color: #008443;
+      background-color: ;
+    }
+    .orangeb{
+      color: #000000;
+      background-color: #ff9966;
+    }
+    .Green2{
+      color: #0000e2;
+      background-color: #cdeb8b;
+    }
+    .Green{
+      color: black;
+      background-color: #cdeb8b;
+    }
+    .silver2{
+      color: black;
+      background-color: #ffffff;
+    }
+    .silver{
+      color: black;
+      background-color: #fceff0;
+    }
+    .purple{
+      color: #000000;
+      background-color: #dda0dd;
+    }
+    .spacer{
+      border-spacing: 0ch;
+      color: aliceblue;
+      border-color: aliceblue;
+      background-color: antiquewhite;
+      border-radius: 0ch;
+    }
+    td.empty{
+      border: 0ch;
+      border-color: white;
+      background-color: white;
+    }
+    .empty{
+      border: white;
+    }
+    div.font{
+      font-family: 'Lato', sans-serif;
+      font-size: larger;
+    }
+    .p1{
+      border: 20px;
+      color: blue;
+    }
+    tr{
+      color: rgb(0, 0, 0);
+      background-color: blueviolet;
+      
+    }
+    td{
+      border: 1px solid rgb(68, 56, 157);
+    }
+    .orange{
+      color: #008443	;
+      background-color: #ff9966	;
+    }
+    .yellow{
+      background-color: #fff28e;
+    }
+    .blue{
+        color:black ;
+        background-color: #90c7ff;
+    }
+    .brown{
+        color: black;
+        background-color: #c79810;
+    }
+    .aquos{
+        color: #008443;
+        background-color: #e6e6fa;
+    }
+    .lyellow{
+        color: black;
+        background-color: #ebdca9;
+    }
